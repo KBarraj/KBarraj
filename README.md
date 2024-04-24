@@ -3,6 +3,8 @@
     font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Hello!+👋;+I'm+Kaled+Barraj!;" />
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 <!--
 **KBarraj/KBarraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
