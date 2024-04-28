@@ -1,6 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=600&size=50&duration=3000&pause=500&color=4286DDFF&center=true&vCenter=true&random=false&width=800&height=80&lines=👋+Hello!++I'm+Kaled+Barraj;Welcome+to+my+Github!"" />
-</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=600&size=50&duration=3000&pause=500&color=4286DDFF&center=true&vCenter=true&random=false&width=800&height=80&lines=👋+Hello!++I'm+Kaled+Barraj;Welcome+to+my+Github!""/></h1>
+
+<div align="center">
+  <a href="mailto:kaledbarraj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2E2E2E?style=for-the-badge&logo=gmail" target="_blank"/></a>
+  
+  <a href="https://in.linkedin.com/in/kaled-barraj" target="_blank">
+    <img src="https://img.shields.io/badge/Linked-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank"/></a>
+    
+  
+<a href="https://linkedin.com/in/kaled-barraj" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaledbarraj" height="30" width="40"/></a>
 
 <!--
 **KBarraj/KBarraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
