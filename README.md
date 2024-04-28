@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Gmail-2E2E2E?style=for-the-badge&logo=gmail" target="_blank"/></a>
   
   <a href="https://in.linkedin.com/in/kaled-barraj" target="_blank">
-    <img src="https://img.shields.io/badge/Linked-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank"/></a>
+    <img src="https://img.shields.io/badge/Linkedin-2E2E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank"/></a>
     
   
 <a href="https://linkedin.com/in/kaled-barraj" target="_blank">
