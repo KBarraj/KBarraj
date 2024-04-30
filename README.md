@@ -4,15 +4,21 @@
 
 <div align="center">
   <a href="https://in.linkedin.com/in/kaled-barraj">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF&logoSize=auto" height="30"/></a>
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF&logoSize=auto" height="25"/> </a>
   
   <a href="mailto:kaledbarraj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="30"/></a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="25"/> </a>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KBarraj.KBarraj" height="25"/>
 </div>
-  
+
+<h2 align="left"> 
+  Languages and Tools <img align="center" src="https://media.giphy.com/media/ZjJt7TTkHO2xKbkq2y/giphy.gif" height="40" width="40"/>
+</h2>
+
 <a href="https://linkedin.com/in/kaled-barraj">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaledbarraj" height="30" width="40"/></a>
-
+  
 <!--
 **KBarraj/KBarraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
