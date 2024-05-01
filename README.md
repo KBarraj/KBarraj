@@ -12,10 +12,27 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KBarraj.KBarraj" height="25"/>
 </div>
 
-<h2 align="left"> 
-  <img align="center" src="https://media.giphy.com/media/ZjJt7TTkHO2xKbkq2y/giphy.gif" height="40" width="40"/> Languages and Tools
-</h2>
+<h2 align="left"> <img align="center" src="https://media.giphy.com/media/ZjJt7TTkHO2xKbkq2y/giphy.gif" height="40" width="40"/> Languages and Tools </h2>
 
+<div align="left">
+  Backend <br/><br/>
+  <img align="left" src="https://skillicons.dev/icons?i=cpp,c,py,java,haskell&theme=dark&perline=15"/> <br/><br/><br/>
+
+  Frontend <br/><br/>
+  <img align="left" src="https://skillicons.dev/icons?i=javascript,html,css&theme=dark&perline=15"/> <br/><br/><br/>
+
+  Cloud Servers <br/><br/>
+  <img align="left" src="https://skillicons.dev/icons?i=gcp&=dark&perline=15"/> <br/><br/><br/>
+
+  Tools <br/><br/>
+  <img align="left" src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,githubactions,vim,md,r,neovim&theme=dark&perline=15"/> <br/><br/><br/>
+
+  Operating Systems <br/><br/>
+  <img align="left" src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu&theme=dark&perline=15"/> <br/><br/><br/>
+</div>
+
+
+<!--
 <a href="https://linkedin.com/in/kaled-barraj">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaledbarraj" height="30" width="40"/></a>
   
