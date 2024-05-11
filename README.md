@@ -23,7 +23,10 @@
   <img align="left" src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu&theme=dark&perline=15"/> <br/><br/><br/>
 </h3>
 
-
+<div align="center">
+  <h2 align="left"> Contributions </h2>
+  <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/output/github-contribution-grid-snake.svg"/>
+</div>
 <!--
 <a href="https://linkedin.com/in/kaled-barraj">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaledbarraj" height="30" width="40"/></a>
