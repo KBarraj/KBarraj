@@ -1,2 +1,17 @@
 # This is the Github Action for the Snake eating contribution graph.
 name: Generate Snake
+
+# Controls when the action will run.
+on:
+	schedule:
+ 		# Runs every 12 hours.
+		- cron: "0 */12 * * *"
+
+ 	# This command allows me to run the Action manually from the Action tab.
+	workflow_dispatch:
+
+ 	# Also run on every push to Master Branch.
+	push:
+ 		branches:
+	 		- main
+	
