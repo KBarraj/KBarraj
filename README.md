@@ -2,31 +2,36 @@
 
 <div align="center">
   <a href="https://in.linkedin.com/in/kaled-barraj">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF&logoSize=auto" height="25"/></a> 
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF&logoSize=auto" height="25"/></a>
+  
   <a href="mailto:kaledbarraj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="25"/></a> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="25"/></a>
+    
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KBarraj.KBarraj" height="25"/>
 </div>
 
 <h2 align="left"> <img align="center" src="https://media.giphy.com/media/ZjJt7TTkHO2xKbkq2y/giphy.gif" height="40" width="40"/> Languages and Tools </h2>
+<div align="left">
+  <h3> Backend </h3>
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,haskell&theme=dark&perline=15"/>
+  
+  <h3> Frontend </h3>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css&theme=dark&perline=15"/>
+  
+  <h3> Cloud Servers </h3>
+  <img src="https://skillicons.dev/icons?i=gcp&=dark&perline=15"/>
+  
+  <h3> Tools </h3>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,githubactions,vim,md,r,neovim&theme=dark&perline=15"/>
+  
+  <h3> Operating Systems </h3>
+  <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu&theme=dark&perline=15"/>
+</div>
 
-<h3 align="left">
-  Backend <br/><br/>
-  <img align="left" src="https://skillicons.dev/icons?i=cpp,c,py,java,haskell&theme=dark&perline=15"/> <br/><br/><br/>
-  Frontend <br/><br/>
-  <img align="left" src="https://skillicons.dev/icons?i=javascript,html,css&theme=dark&perline=15"/> <br/><br/><br/>
-  Cloud Servers <br/><br/>
-  <img align="left" src="https://skillicons.dev/icons?i=gcp&=dark&perline=15"/> <br/><br/><br/>
-  Tools <br/><br/>
-  <img align="left" src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,githubactions,vim,md,r,neovim&theme=dark&perline=15"/> <br/><br/><br/>
-  Operating Systems <br/><br/>
-  <img align="left" src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu&theme=dark&perline=15"/> <br/><br/><br/>
-</h3>
-
+<h2 align="left"> Contributions </h2>
 <div align="center">
-  <h2 align="left"> Contributions </h2>
-  <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake-light.svg#gh-light-mode-only"/>
-  <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake-light.svg#gh-light-mode-only" alt="Github contribution status"/>
+  <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Github contribution status"/>
 </div>
 <!--
 <a href="https://linkedin.com/in/kaled-barraj">
