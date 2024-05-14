@@ -10,45 +10,45 @@ schedule:
 # This command allows me to run the Action manually from the Action tab.
 workflow_dispatch:
 
- 	# Also run on every push to Master Branch.
-	push:
- 		branches:
-	 		- main
+# Also run on every push to Master Branch.
+push:
+branches:
+- main
 
 # The sequence of steps in this workflow.
 jobs:
-  # This workflow contains a single job called "build".
-  build:
-    # What operating system the job will run on.
-    runs-on: ubuntu-latest
+# This workflow contains a single job called "build".
+build:
+# What operating system the job will run on.
+runs-on: ubuntu-latest
 
-    # Steps represent a sequence of task that will be executed as part of the job.
-    steps:
-      # Clone the repository.
-      - name: Clone repo
-        uses: actions/checkout@v3
+# Steps represent a sequence of task that will be executed as part of the job.
+steps:
+# Clone the repository.
+- name: Clone repo
+uses: actions/checkout@v3
 
-      # Generate the Snake files.
-      - name: Generate the Snake files in './dist/'
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=#3c7dd9&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+# Generate the Snake files.
+- name: Generate the Snake files in './dist/'
+uses: Platane/snk@v3
+id: snake-gif
+with:
+github_user_name: ${{ github.repository_owner }}
+outputs: |
+dist/github-contribution-grid-snake.svg
+dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+dist/github-contribution-grid-snake.gif?color_snake=#3c7dd9&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
-      # Display the build status.
-      - name: Show build status
-        run: git status
+# Display the build status.
+- name: Show build status
+run: git status
 
-      # Push to the repository.
-      - name: Push new files to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: Output
-          build_dir: dist
-          commit_message: Update Snake animations
-       env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# Push to the repository.
+- name: Push new files to Output Branch
+uses: crazy-max/ghaction-github-pages@v3.1.0
+with:
+target_branch: Output
+build_dir: dist
+commit_message: Update Snake animations
+env:
+GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
