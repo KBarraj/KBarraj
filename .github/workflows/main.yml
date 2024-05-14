@@ -26,7 +26,7 @@ jobs:
     steps:
       # Clone the repository.
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
     
       # Generate the Snake files.
       - name: Generate the Snake files in './dist/'
