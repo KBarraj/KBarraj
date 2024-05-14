@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=600&size=50&duration=3000&pause=500&color=00AEFFFF&center=true&vCenter=true&random=false&width=800&height=80&lines=👋+Hello!+I'm+Kaled+Barraj;Welcome+to+my+Github!+🎉""/> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=600&size=50&duration=3000&pause=500&color=4286DDFF&center=true&vCenter=true&random=false&width=800&height=80&lines=👋+Hello!+I'm+Kaled+Barraj;Welcome+to+my+Github!+🎉""/> </div>
 
 <div align="center">
   <a href="https://in.linkedin.com/in/kaled-barraj">
@@ -25,7 +25,8 @@
 
 <div align="center">
   <h2 align="left"> Contributions </h2>
-  <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake.light-1.svg"/>
+  <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake-light.svg#gh-light-mode-only"/>
+  <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 </div>
 <!--
 <a href="https://linkedin.com/in/kaled-barraj">
