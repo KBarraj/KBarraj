@@ -3,7 +3,7 @@ name: Generate Snake
 
 # Controls when the action will run.
 on:
-	schedule:
+schedule:
  		# Runs every 12 hours.
 		- cron: "0 */12 * * *"
 
