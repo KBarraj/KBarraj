@@ -35,6 +35,8 @@
 </div>
 
 <h2 align="left"> <img align="center" src="https://media.giphy.com/media/OWL3PWVc6frOwRgkaY/giphy.gif" height="40" width="40"/> Statistics </h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KBarraj&theme=dark&border_radius=15&card_width=500" alt="GitHub Streak"/>
 <!--
 <a href="https://linkedin.com/in/kaled-barraj">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaledbarraj" height="30" width="40"/></a>
