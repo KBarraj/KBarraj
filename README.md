@@ -34,7 +34,7 @@
   <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Github contribution status"/>
 </div>
 
-<h2 align="left"> <img align="center" src="https://images.squarespace-cdn.com/content/v1/54f51011e4b0bd373cdec9da/1528341364571-RJ22T9ZFQ6CLKBNSBST2/rising-costs-barchart-color.gif?format=500w" height="40" width="40"/> Stats </h2>
+<h2 align="left"> <img align="center" src="https://media.giphy.com/media/OWL3PWVc6frOwRgkaY/giphy.gif" height="40" width="40"/> Statistics </h2>
 <!--
 <a href="https://linkedin.com/in/kaled-barraj">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaledbarraj" height="30" width="40"/></a>
