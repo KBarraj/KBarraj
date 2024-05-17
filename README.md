@@ -28,18 +28,26 @@
   <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu&theme=dark&perline=15"/>
 </div>
 
+<br/>
+
 <h2 align="left"> <img align="center" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height="40" width="40"/> Contributions </h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake-light.svg#gh-light-mode-only" alt="Github contribution status"/>
   <img src="https://raw.githubusercontent.com/KBarraj/KBarraj/Output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Github contribution status"/>
 </div>
 
+<br/>
+
 <h2 align="left"> <img align="center" src="https://media.giphy.com/media/OWL3PWVc6frOwRgkaY/giphy.gif" height="40" width="40"/> Statistics </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KBarraj&theme=github_dark_dimmed&border_radius=10&show_icons=true&card_width=100" alt="Github Stats Card"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=github_dark_dimmed&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&" alt="Github Top Languages Card" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=github_dark_dimmed&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact" alt="Github Top Languages Card" height="195"/>
   <img src="https://streak-stats.demolab.com?user=KBarraj&theme=github_dark_dimmed&border_radius=10&card_width=745" alt="GitHub Streaks Card"/>
 </div>
+
+<br/>
+
+<h2 align="left"> <img align="center" src="https://media.giphy.com/media/8zCNxwv3LLz0lJ8LcN/giphy.gif" height="40" width="40"/> Connect With Me </h2>
   
 <!--
 <a href="https://linkedin.com/in/kaled-barraj">
