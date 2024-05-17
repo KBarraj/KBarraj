@@ -48,11 +48,14 @@
 <br/>
 
 <h2 align="left"> <img align="center" src="https://media.giphy.com/media/8zCNxwv3LLz0lJ8LcN/giphy.gif" height="40" width="40"/> Connect With Me </h2>
+<div align="center">
+  <a href="https://linkedin.com/in/kaled-barraj">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40"/></a> &nbsp;&nbsp;
   
-<!--
-<a href="https://linkedin.com/in/kaled-barraj">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaledbarraj" height="30" width="40"/></a>
-  
+  <a href="mailto:kaledbarraj@gmail.com">
+    <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="My Gmail" height="30" width="40"/></a>
+</div>
+
 <!--
 **KBarraj/KBarraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
