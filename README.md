@@ -53,7 +53,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My Linkedin" height="30" width="40"/></a> &nbsp;&nbsp;
   
   <a href="mailto:kaledbarraj@gmail.com">
-    <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" alt="My Gmail" height="30" width="40"/></a>
+    <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/gmail/gmail.svg" alt="My Gmail" height="30" width="40"/></a>
 </div>
 
 <!--
